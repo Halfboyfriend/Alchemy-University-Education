@@ -1,0 +1,21 @@
+{
+  "name": "alchemyuniversity",
+  "version": "1.0.0",
+  "description": "My First project with Alchemy University",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devoid",
+  "license": "ISC",
+  "devDependencies": {
+    "@faker-js/faker": "^8.0.2"
+  },
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.1.1",
+    "ethereum-cryptography": "^2.0.0",
+    "ethereumjs-util": "^7.1.5",
+    "ethers": "^6.6.2"
+  }
+}
