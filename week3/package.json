@@ -1,0 +1,15 @@
+{
+  "name": "week3",
+  "version": "1.0.0",
+  "description": "One of the learning goals we challenge AU students with is not being intimidated by the Ethereum block architecture. At this point, you should begin to feel familiar with the above diagram... keep it in mind as we learn further Ethereum content this week so that you can fill any knowledge gaps. Your goal is to be able to accurately describe every single property in an Ethereum block... 🧠",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "alchemy-sdk": "^2.9.2",
+    "axios": "^1.4.0"
+  }
+}
